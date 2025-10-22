@@ -1,0 +1,15 @@
+font=JetBrainsMono Nerd Font 10
+background-color=#0f0f17cc
+text-color=#00ff99
+border-color=#00ffaa
+border-size=2
+padding=10
+margin=12
+corner-radius=6
+layer=overlay
+default-timeout=6000
+icon-path=/usr/share/icons
+width=400
+height=120
+anchor=top-right
+progress-color=#00ffaa
